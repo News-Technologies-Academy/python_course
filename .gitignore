@@ -1,2 +1,6 @@
 .am*
 module1.ipynb.*
+.ipynb_aml_checkpoints
+'Module 1'/.ipynb_aml_checkpoints
+'Module 1'/.*
+'Module 1'/module1.ipynb.*
